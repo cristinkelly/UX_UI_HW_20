@@ -1,0 +1,39 @@
+body{
+    position:relative;
+    overflow-y: scroll;
+}
+
+h2 {
+    text-align: center !important;
+    padding: 5% !important;
+}
+.card {
+    margin: 2% !important;
+    padding: 2% !important;
+    border: none !important;
+}
+
+.navbar .sticky-top {
+    text-align: center !important;
+}
+
+p {
+    padding: 2%;
+    margin: 5%;
+}
+
+h4{
+    text-align: center !important;
+    margin: 2%;
+    padding: 2%;
+}
+.imagecontainererin {
+    height: 50%;
+    width: 50%;
+    margin: 2%
+}
+
+img {
+    height:50%;
+    width: 50%
+}
